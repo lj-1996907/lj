@@ -56,7 +56,7 @@ c、运行predict.py，输入
 img/street.jpg
 ```
 可完成预测。  
-d、利用video.py可进行摄像头检测。  
+ 
 
 ### 训练步骤
 1、本文使用VOC格式进行训练。  
